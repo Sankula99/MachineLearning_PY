@@ -24,3 +24,5 @@ Gradient Boosting (XGBoost)
 
 This is from Cam Nugent on the Kaggle Datasets Website (I do not own this dataset.)
 Link:  https://www.kaggle.com/datasets/camnugent/california-housing-prices/discussion?sort=hotness
+Project Resource: It is based on the YouTube tutorial from FreeCodeCamp "Machine Learning in 2024 – Beginner's Course"
+Youtube Link: https://www.youtube.com/watch?v=bmmQA8A-yUA
