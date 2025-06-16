@@ -17,6 +17,8 @@ Decision Tree Regressor
 
 Random Forest Regressor
 
+This is from Cam Nugent on the Kaggle Datasets Website (I do not own this dataset.)
+Link:  https://www.kaggle.com/datasets/camnugent/california-housing-prices/discussion?sort=hotness
 Gradient Boosting (XGBoost)
 
 📈 Model Evaluation: Evaluate models using RMSE and MSE.
